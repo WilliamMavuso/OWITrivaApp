@@ -8,7 +8,7 @@ The goal is to create an educational app that quizzes a user about a certain top
 ### Challenge
 Using single screen to walk the user through all the quiz questions
 
-###Extra
+### Extra
 Result of user responses are presented in a single screen at the conclusion of the quiz
 
 Tools
@@ -17,8 +17,3 @@ Android Plugin v4.0.0
 Android API v29
 Android Build Tools v27
 
-### Screenshots
-
-![Home Page](https://drive.google.com/drive/folders/1W_WRQQJ6Yq-e1USFM1qkLeaQihRFtlSX)
-![Quiz Page](https://drive.google.com/drive/folders/1W_WRQQJ6Yq-e1USFM1qkLeaQihRFtlSX)
-![Score Page](https://drive.google.com/drive/folders/1W_WRQQJ6Yq-e1USFM1qkLeaQihRFtlSX)
