@@ -11,7 +11,7 @@ Using single screen to walk the user through all the quiz questions
 ### Extra
 Result of user responses are presented in a single screen at the conclusion of the quiz
 
-Tools
+### Tools
 Gradle v6.1.1
 Android Plugin v4.0.0
 Android API v29
