@@ -8,7 +8,7 @@ The goal is to create an educational app that quizzes a user about a certain top
 ### Challenge
 Using single screen to walk the user through all the quiz questions
 
-###Extra
+### Extra
 Result of user responses are presented in a single screen at the conclusion of the quiz
 
 Tools
